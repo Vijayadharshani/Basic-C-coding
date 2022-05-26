@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+float a;
+printf("Enter the input: ");
+scanf("%f",&a);
+printf("The round off value is %.f",a);
+return 0;
+}
