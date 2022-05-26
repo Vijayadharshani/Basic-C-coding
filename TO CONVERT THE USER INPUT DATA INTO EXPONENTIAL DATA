@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+float a;
+printf("Enter the data: ");
+scanf("%f",&a);
+printf("%e",a);//exponential data
+return 0;
+}
