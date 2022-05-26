@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+char a;
+int b;
+printf("Enter the input alphabet: ");//a
+scanf("%c",&a);
+printf("The ascii value is %d\n",a);//97
+printf("Enter the input data: ");//98
+scanf("%d",&b);
+printf("The alphabet for corresponding ascii value is %c",b);//b
+return 0;
+}
