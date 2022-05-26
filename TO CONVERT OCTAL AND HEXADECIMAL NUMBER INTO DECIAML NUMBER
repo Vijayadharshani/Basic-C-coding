@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+int a;
+printf("Enter the input: ");//OCTAL OR HEXADECIAML VALUE
+scanf("%i",&a);
+printf("Corresponding decimal value is %d",a);
+return 0;
+}
