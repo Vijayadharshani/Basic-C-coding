@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+int a;
+printf("Enter the input: ");
+scanf("%d",&a);
+printf("%5d",a);//width is 5
+return 0;
+}
