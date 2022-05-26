@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+int a;//datatype_variable name
+printf("Enter the input: ");
+scanf("%d",&a);
+printf("%d",a);
+return 0;
+}
